@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: 0151ba51-6f90-4d09-a387-ba3b605c08de
+  subscription: as-serv-conn-4-terraform
   resourceGroup: rg-tfstate
   storageAccount: 007terraformtfstate
   container: tfstate
